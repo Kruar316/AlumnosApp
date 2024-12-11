@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "taTzENEbQ0DFZW/bRRD5iotz7y01aPHv9hrI/iOu7zju7W+oMtKffK9jW/6H1qU/BrXY25Yln0h/ddJFQ4RlsA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\tallerespa\\Desktop\\AlumnosApp\\AlumnosApp\\AlumnosApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "La versión de la plataforma no está presente para una o varias plataformas de destino, aunque se haya especificado una plataforma: net8.0-android, net8.0-ios, net8.0-maccatalyst"
+    }
+  ]
+}

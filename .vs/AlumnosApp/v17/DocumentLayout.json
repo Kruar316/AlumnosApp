@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ruarc\\source\\repos\\AlumnosApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D06A428B-84C4-4BEE-AD3E-BB22803AC877}|AlumnosApp\\AlumnosApp.csproj|c:\\users\\ruarc\\source\\repos\\alumnosapp\\alumnosapp\\vistas\\listaralumnos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06A428B-84C4-4BEE-AD3E-BB22803AC877}|AlumnosApp\\AlumnosApp.csproj|solutionrelative:alumnosapp\\vistas\\listaralumnos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06A428B-84C4-4BEE-AD3E-BB22803AC877}|AlumnosApp\\AlumnosApp.csproj|c:\\users\\ruarc\\source\\repos\\alumnosapp\\alumnosapp\\vistas\\listaralumnos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D06A428B-84C4-4BEE-AD3E-BB22803AC877}|AlumnosApp\\AlumnosApp.csproj|solutionrelative:alumnosapp\\vistas\\listaralumnos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06A428B-84C4-4BEE-AD3E-BB22803AC877}|AlumnosApp\\AlumnosApp.csproj|c:\\users\\ruarc\\source\\repos\\alumnosapp\\alumnosapp\\vistas\\crearalumno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06A428B-84C4-4BEE-AD3E-BB22803AC877}|AlumnosApp\\AlumnosApp.csproj|solutionrelative:alumnosapp\\vistas\\crearalumno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06A428B-84C4-4BEE-AD3E-BB22803AC877}|AlumnosApp\\AlumnosApp.csproj|c:\\users\\ruarc\\source\\repos\\alumnosapp\\alumnosapp\\vistas\\crearalumno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D06A428B-84C4-4BEE-AD3E-BB22803AC877}|AlumnosApp\\AlumnosApp.csproj|solutionrelative:alumnosapp\\vistas\\crearalumno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06A428B-84C4-4BEE-AD3E-BB22803AC877}|AlumnosApp\\AlumnosApp.csproj|c:\\users\\ruarc\\source\\repos\\alumnosapp\\alumnosapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06A428B-84C4-4BEE-AD3E-BB22803AC877}|AlumnosApp\\AlumnosApp.csproj|solutionrelative:alumnosapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06A428B-84C4-4BEE-AD3E-BB22803AC877}|AlumnosApp\\AlumnosApp.csproj|c:\\users\\ruarc\\source\\repos\\alumnosapp\\alumnosapp\\alumnosapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D06A428B-84C4-4BEE-AD3E-BB22803AC877}|AlumnosApp\\AlumnosApp.csproj|solutionrelative:alumnosapp\\alumnosapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListarAlumnos.xaml",
+              "DocumentMoniker": "C:\\Users\\ruarc\\source\\repos\\AlumnosApp\\AlumnosApp\\Vistas\\ListarAlumnos.xaml",
+              "RelativeDocumentMoniker": "AlumnosApp\\Vistas\\ListarAlumnos.xaml",
+              "ToolTip": "C:\\Users\\ruarc\\source\\repos\\AlumnosApp\\AlumnosApp\\Vistas\\ListarAlumnos.xaml",
+              "RelativeToolTip": "AlumnosApp\\Vistas\\ListarAlumnos.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T19:34:15.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CrearAlumno.xaml",
+              "DocumentMoniker": "C:\\Users\\ruarc\\source\\repos\\AlumnosApp\\AlumnosApp\\Vistas\\CrearAlumno.xaml",
+              "RelativeDocumentMoniker": "AlumnosApp\\Vistas\\CrearAlumno.xaml",
+              "ToolTip": "C:\\Users\\ruarc\\source\\repos\\AlumnosApp\\AlumnosApp\\Vistas\\CrearAlumno.xaml",
+              "RelativeToolTip": "AlumnosApp\\Vistas\\CrearAlumno.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T19:34:07.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrearAlumno.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ruarc\\source\\repos\\AlumnosApp\\AlumnosApp\\Vistas\\CrearAlumno.xaml.cs",
+              "RelativeDocumentMoniker": "AlumnosApp\\Vistas\\CrearAlumno.xaml.cs",
+              "ToolTip": "C:\\Users\\ruarc\\source\\repos\\AlumnosApp\\AlumnosApp\\Vistas\\CrearAlumno.xaml.cs",
+              "RelativeToolTip": "AlumnosApp\\Vistas\\CrearAlumno.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:30:44.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListarAlumnos.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ruarc\\source\\repos\\AlumnosApp\\AlumnosApp\\Vistas\\ListarAlumnos.xaml.cs",
+              "RelativeDocumentMoniker": "AlumnosApp\\Vistas\\ListarAlumnos.xaml.cs",
+              "ToolTip": "C:\\Users\\ruarc\\source\\repos\\AlumnosApp\\AlumnosApp\\Vistas\\ListarAlumnos.xaml.cs",
+              "RelativeToolTip": "AlumnosApp\\Vistas\\ListarAlumnos.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:30:30.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\ruarc\\source\\repos\\AlumnosApp\\AlumnosApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "AlumnosApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\ruarc\\source\\repos\\AlumnosApp\\AlumnosApp\\MauiProgram.cs",
+              "RelativeToolTip": "AlumnosApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:27:49.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlumnosApp",
+              "DocumentMoniker": "C:\\Users\\ruarc\\source\\repos\\AlumnosApp\\AlumnosApp\\AlumnosApp.csproj",
+              "RelativeDocumentMoniker": "AlumnosApp\\AlumnosApp.csproj",
+              "ToolTip": "C:\\Users\\ruarc\\source\\repos\\AlumnosApp\\AlumnosApp\\AlumnosApp.csproj",
+              "RelativeToolTip": "AlumnosApp\\AlumnosApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T19:27:09.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

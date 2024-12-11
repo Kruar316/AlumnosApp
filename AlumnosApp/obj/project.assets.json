@@ -1,0 +1,133 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-android": {},
+    "net8.0-ios": {},
+    "net8.0-maccatalyst": {},
+    "net8.0-windows10.0.19041": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0-android": [],
+    "net8.0-ios": [],
+    "net8.0-maccatalyst": [],
+    "net8.0-windows10.0.19041": []
+  },
+  "packageFolders": {
+    "C:\\Users\\tallerespa\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\tallerespa\\Desktop\\AlumnosApp\\AlumnosApp\\AlumnosApp.csproj",
+      "projectName": "AlumnosApp",
+      "projectPath": "C:\\Users\\tallerespa\\Desktop\\AlumnosApp\\AlumnosApp\\AlumnosApp.csproj",
+      "packagesPath": "C:\\Users\\tallerespa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tallerespa\\Desktop\\AlumnosApp\\AlumnosApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "crossTargeting": true,
+      "configFilePaths": [
+        "C:\\Users\\tallerespa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-android",
+        "net8.0-ios",
+        "net8.0-maccatalyst",
+        "net8.0-windows10.0.19041.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-android": {
+          "targetAlias": "net8.0-android",
+          "projectReferences": {}
+        },
+        "net8.0-ios": {
+          "targetAlias": "net8.0-ios",
+          "projectReferences": {}
+        },
+        "net8.0-maccatalyst": {
+          "targetAlias": "net8.0-maccatalyst",
+          "projectReferences": {}
+        },
+        "net8.0-windows10.0.19041": {
+          "targetAlias": "net8.0-windows10.0.19041.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0-android": {
+        "targetAlias": "net8.0-android",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
+      },
+      "net8.0-ios": {
+        "targetAlias": "net8.0-ios",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
+      },
+      "net8.0-maccatalyst": {
+        "targetAlias": "net8.0-maccatalyst",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
+      },
+      "net8.0-windows10.0.19041": {
+        "targetAlias": "net8.0-windows10.0.19041.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "La versión de la plataforma no está presente para una o varias plataformas de destino, aunque se haya especificado una plataforma: net8.0-android, net8.0-ios, net8.0-maccatalyst"
+    }
+  ]
+}
